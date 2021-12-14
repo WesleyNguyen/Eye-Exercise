@@ -1,7 +1,5 @@
 # Eye-Exercise
 
-<img src="oneeye.png" width='300'/>
-
 This program consists of 3 simple HTML/CSS/Javascript files that work together; the eyes on screen tracks your mouse movements and then redraws itself based on your position, which simulates the feeling that those eyes are following your every move.
 
 How to run:
