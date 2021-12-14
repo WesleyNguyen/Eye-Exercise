@@ -7,5 +7,8 @@ How to run:
 2) Double click the index.html file and make sure that it's running on a web browser.
 3) Move your mouse on-screen.
 
+Alternatively, you might be able to run it if you have proper permissions and can click this link:
+<a href="http://wesleynguyen.github.io/Eye-Exercise">Eye-Exercise</a>
+
 Roadmap:
 1) Potentially add a 3rd Eye that opens up after a certain period of time
